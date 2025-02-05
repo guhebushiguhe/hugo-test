@@ -6,8 +6,36 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 15 Mar 2023 11:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 00:29:39 +0800</lastBuildDate>
     <atom:link href="https://guhebushiguhe.github.io/hugo-test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NewBlog2</title>
+      <link>https://guhebushiguhe.github.io/hugo-test/post/newblog2/</link>
+      <pubDate>Thu, 06 Feb 2025 00:29:39 +0800</pubDate>
+      <guid>https://guhebushiguhe.github.io/hugo-test/post/newblog2/</guid>
+      <description>&lt;p&gt;一模一样的标题，现在倒是都能正常生成了&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NewBlog3</title>
+      <link>https://guhebushiguhe.github.io/hugo-test/post/newblog3/</link>
+      <pubDate>Thu, 06 Feb 2025 00:29:02 +0800</pubDate>
+      <guid>https://guhebushiguhe.github.io/hugo-test/post/newblog3/</guid>
+      <description>&lt;p&gt;好迷啊现在生成的又都正常了&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TestBlog111</title>
+      <link>https://guhebushiguhe.github.io/hugo-test/post/testblog111/</link>
+      <pubDate>Thu, 06 Feb 2025 00:27:47 +0800</pubDate>
+      <guid>https://guhebushiguhe.github.io/hugo-test/post/testblog111/</guid>
+      <description>&lt;p&gt;这又有了&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>测试新文章</title>
+      <link>https://guhebushiguhe.github.io/hugo-test/post/newblog/</link>
+      <pubDate>Thu, 06 Feb 2025 00:18:26 +0800</pubDate>
+      <guid>https://guhebushiguhe.github.io/hugo-test/post/newblog/</guid>
+      <description>&lt;h3 id=&#34;测试新文章&#34;&gt;&#xA;&lt;a class=&#34;header-anchor&#34; href=&#34;#%e6%b5%8b%e8%af%95%e6%96%b0%e6%96%87%e7%ab%a0&#34;&gt;&lt;/a&gt;&#xA;测试新文章&#xA;&lt;/h3&gt;&lt;p&gt;上面的时间和标题信息似乎不是标准的md格式，但是改成注释会在list指令里出错。&lt;/p&gt;&#xA;&lt;p&gt;这里保留测试，看看实际部署结果&lt;/p&gt;&#xA;&lt;p&gt;看来需要换两行才是真的换行&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://guhebushiguhe.github.io/hugo-test/post/newblog/3d0287015c9e4bec-1652864622969.jpg&#34; alt=&#34;测试图片&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;​&#x9;上面插入了图片&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Hello World</title>
       <link>https://guhebushiguhe.github.io/hugo-test/post/hello/</link>
@@ -20,7 +48,7 @@
       <link>https://guhebushiguhe.github.io/hugo-test/about/</link>
       <pubDate>Thu, 09 Jun 2022 20:12:52 +0800</pubDate>
       <guid>https://guhebushiguhe.github.io/hugo-test/about/</guid>
-      <description></description>
+      <description>&lt;p&gt;没有什么关于的内容&lt;/p&gt;</description>
     </item>
     <item>
       <title>友情链接</title>
