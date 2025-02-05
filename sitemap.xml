@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://guhebushiguhe/hugo-test/post/hello/</loc>
+    <loc>https://guhebushiguhe.github.io/hugo-test/post/hello/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://guhebushiguhe/hugo-test/</loc>
+    <loc>https://guhebushiguhe.github.io/hugo-test/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://guhebushiguhe/hugo-test/archives/</loc>
+    <loc>https://guhebushiguhe.github.io/hugo-test/archives/</loc>
     <lastmod>2022-07-26T21:46:25+08:00</lastmod>
   </url><url>
-    <loc>https://guhebushiguhe/hugo-test/post/</loc>
+    <loc>https://guhebushiguhe.github.io/hugo-test/post/</loc>
     <lastmod>2022-07-26T21:46:25+08:00</lastmod>
   </url><url>
-    <loc>https://guhebushiguhe/hugo-test/about/</loc>
+    <loc>https://guhebushiguhe.github.io/hugo-test/about/</loc>
     <lastmod>2022-06-09T20:12:52+08:00</lastmod>
   </url><url>
-    <loc>https://guhebushiguhe/hugo-test/friend/</loc>
+    <loc>https://guhebushiguhe.github.io/hugo-test/friend/</loc>
     <lastmod>2022-06-09T20:12:52+08:00</lastmod>
   </url><url>
-    <loc>https://guhebushiguhe/hugo-test/categories/</loc>
+    <loc>https://guhebushiguhe.github.io/hugo-test/categories/</loc>
   </url><url>
-    <loc>https://guhebushiguhe/hugo-test/tags/</loc>
+    <loc>https://guhebushiguhe.github.io/hugo-test/tags/</loc>
   </url>
 </urlset>
